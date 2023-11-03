@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaant-97" alt="ishaant-97" /></a> </p>
 
-- 🔭 I’m currently working on **Car Rental Website**
+- 🔭 I’m currently working on **Weather App(Forecast Fusion)**
 
 - 💬 Ask me about **Python, SQL**
 
